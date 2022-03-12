@@ -56,5 +56,5 @@ This are the projects I (Fullsnacker) developed during this bootcamp.
 
 Feel free to use them as you see fit.
 
-   [P001]: <https://github.com/fullsnacker/100-days-py/day-001>
-   [P002]: <https://github.com/fullsnacker/100-days-py/day-002>
+   [P001]: <https://github.com/fullsnacker/100-days-py/tree/master/day-001>
+   [P002]: <https://github.com/fullsnacker/100-days-py/tree/master/day-002>
