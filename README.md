@@ -47,7 +47,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 
 This are the projects I (Fullsnacker) developed during this bootcamp.
 
-| Project | README |
+| Project | Link |
 | ------ | ------ |
 | Band name generator | [day-001][P001] |
 | Tip calculator | [day-002][P002] |
