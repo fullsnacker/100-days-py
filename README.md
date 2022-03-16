@@ -51,6 +51,10 @@ This are the projects I (Fullsnacker) developed during this bootcamp.
 | ------ | ------ |
 | Band name generator | [day-001][P001] |
 | Tip calculator | [day-002][P002] |
+| Treasure Island | [day-003][P003] |
+| Rock, Paper, Scissors | [day-004][P004] |
+| FizzBuzz | [day-005][P005] |
+| Password Generator | [day-005][P005] |
 
 ## License
 
@@ -58,3 +62,7 @@ Feel free to use them as you see fit.
 
    [P001]: <https://github.com/fullsnacker/100-days-py/tree/master/day-001>
    [P002]: <https://github.com/fullsnacker/100-days-py/tree/master/day-002>
+   [P003]: <https://github.com/fullsnacker/100-days-py/tree/master/day-003>
+   [P004]: <https://github.com/fullsnacker/100-days-py/tree/master/day-004>
+   [P005]: <https://github.com/fullsnacker/100-days-py/tree/master/day-005>
+
