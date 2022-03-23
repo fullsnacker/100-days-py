@@ -55,6 +55,8 @@ This are the projects I (Fullsnacker) developed during this bootcamp.
 | Rock, Paper, Scissors | [day-004][P004] |
 | FizzBuzz | [day-005][P005] |
 | Password Generator | [day-005][P005] |
+| Hangman Game | [day-007][P007] |
+| Caesar Cipher | [day-008][P008] |
 
 ## License
 
@@ -65,4 +67,7 @@ Feel free to use them as you see fit.
    [P003]: <https://github.com/fullsnacker/100-days-py/tree/master/day-003>
    [P004]: <https://github.com/fullsnacker/100-days-py/tree/master/day-004>
    [P005]: <https://github.com/fullsnacker/100-days-py/tree/master/day-005>
+   [P007]: <https://github.com/fullsnacker/100-days-py/tree/master/day-007>
+   [P008]: <https://github.com/fullsnacker/100-days-py/tree/master/day-008>
+
 
