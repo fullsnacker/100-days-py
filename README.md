@@ -4,6 +4,21 @@
 
 Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
 
+## Projects
+
+This are the projects I (Fullsnacker) developed during this bootcamp.
+
+| Project | Link |
+| ------ | ------ |
+| Band name generator | [day-001][P001] |
+| Tip calculator | [day-002][P002] |
+| Treasure Island | [day-003][P003] |
+| Rock, Paper, Scissors | [day-004][P004] |
+| FizzBuzz | [day-005][P005] |
+| Password Generator | [day-005][P005] |
+| Hangman Game | [day-007][P007] |
+| Caesar Cipher | [day-008][P008] |
+
 ## Tech
 
 - Python 3 - the latest version of Python
@@ -42,21 +57,6 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 - Authentication
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
-
-## Projects
-
-This are the projects I (Fullsnacker) developed during this bootcamp.
-
-| Project | Link |
-| ------ | ------ |
-| Band name generator | [day-001][P001] |
-| Tip calculator | [day-002][P002] |
-| Treasure Island | [day-003][P003] |
-| Rock, Paper, Scissors | [day-004][P004] |
-| FizzBuzz | [day-005][P005] |
-| Password Generator | [day-005][P005] |
-| Hangman Game | [day-007][P007] |
-| Caesar Cipher | [day-008][P008] |
 
 ## License
 
